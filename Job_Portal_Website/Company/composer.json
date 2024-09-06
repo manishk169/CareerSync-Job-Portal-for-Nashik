@@ -1,0 +1,11 @@
+{
+    "name": "manish/image_verification",
+    "description": "job portalproject",
+    "type": "project",
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "spatie/pdf-to-text": "^1.52",
+        "phpmailer/phpmailer": "^6.9",
+        "cloudinary/cloudinary_php": "^2.14"
+    }
+}

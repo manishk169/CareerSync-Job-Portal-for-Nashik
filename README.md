@@ -2,11 +2,11 @@
 Developed a robust job portal using PHP and MySQL exclusively for Nashik city, featuring advanced search functionalities, real-time email notifications, and personalized job recommendations based on jobseeker's skills. Streamlined the application and recruitment processes to enhance user experience for both job seekers and employers.
 
 <h1>Technology Used</h1>
-Front-end : Html, CSS, Bootstrap, JavaScript
-Back-end : PHP
-Database : MySQL
-Software : Visual Studio Code
-Libraries and Tools : Composer(Dependency Manager) , PHP Mailer
+Front-end : Html, CSS, Bootstrap, JavaScript   <br>
+Back-end : PHP                <br>
+Database : MySQL              <br>
+Software : Visual Studio Code          <br>
+Libraries and Tools : Composer(Dependency Manager) , PHP Mailer            <br>
 
 <h1>Project Photos</h1>
 

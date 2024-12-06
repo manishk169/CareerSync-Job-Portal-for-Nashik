@@ -3,9 +3,9 @@ Developed a robust job portal using PHP and MySQL exclusively for Nashik city, f
 
 <h1>Project Photos</h1>
 
-![homepage php](https://github.com/user-attachments/assets/6902304a-5dd8-4db9-9a20-0588f677af71)
+![homepage php](https://github.com/user-attachments/assets/6902304a-5dd8-4db9-9a20-0588f677af71)    <br>
 
-![login_register page](https://github.com/user-attachments/assets/85de18dd-ff54-42ff-be5d-d1e7702715ae)
+![login_register page](https://github.com/user-attachments/assets/85de18dd-ff54-42ff-be5d-d1e7702715ae)   <br>
 
 ![company_registration](https://github.com/user-attachments/assets/fe957893-d711-4ac9-9164-117277207ca4)
 

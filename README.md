@@ -8,7 +8,7 @@ Database : MySQL              <br>
 Software : Visual Studio Code          <br>
 Libraries and Tools : Composer(Dependency Manager) , PHP Mailer            <br>
 
-<h1>Project Photos</h1>
+<h1>Project Screenshots</h1>
 
 ![homepage php](https://github.com/user-attachments/assets/6902304a-5dd8-4db9-9a20-0588f677af71)    <br>
 

@@ -8,6 +8,8 @@ Back-end : PHP                <br>
 Database : MySQL              <br>
 Software : Visual Studio Code          <br>
 Libraries and Tools : Composer(Dependency Manager) , PHP Mailer            <br>
+Cloud Platform : Cloudinary         <br>
+
 
 <h1>Project Screenshots</h1>
 

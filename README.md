@@ -1,5 +1,6 @@
 # CareerSync-Job-Portal-for-Nashik
-Developed a robust job portal using PHP and MySQL exclusively for Nashik city, featuring advanced search functionalities, real-time email notifications, and personalized job recommendations based on jobseeker's skills. Streamlined the application and recruitment processes to enhance user experience for both job seekers and employers.
+Developed a robust job portal using PHP and MySQL exclusively for Nashik city, featuring advanced search functionalities and real-time email notifications. Streamlined the application and recruitment processes to enhance user experience for both job seekers and employers. Improved the platform's efficiency to facilitate seamless interactions between job seekers and employers.
+
 
 <h1>Technology Used</h1>
 Front-end : Html, CSS, Bootstrap, JavaScript   <br>
